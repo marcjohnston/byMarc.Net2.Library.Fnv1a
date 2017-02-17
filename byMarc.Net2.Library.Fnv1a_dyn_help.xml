@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="byMarc.Net2.Library.Fnv1a" Title="byMarc.Net2.Library.Fnv1a Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Fnv1a.FNV1a" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Fnv1a.chm::/topic_0000000000000000.html" LinkGroup="byMarc.Net2.Library.Fnv1a">FNV1a Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Fnv1a.FNV1a.FNV1aHash" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Fnv1a.chm::/topic_0000000000000001.html" LinkGroup="byMarc.Net2.Library.Fnv1a">FNV1aHash Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Fnv1a" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Fnv1a.chm::/topic_0000000000000005.html" LinkGroup="byMarc.Net2.Library.Fnv1a">byMarc.Net2.Library.Fnv1a Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Fnv1a Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Fnv1a.chm::/topic_0000000000000004.html" LinkGroup="byMarc.Net2.Library.Fnv1a">byMarc.Net2.Library.Fnv1a Reference</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+
